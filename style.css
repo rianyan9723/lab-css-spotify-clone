@@ -94,7 +94,7 @@ header a {
     margin-right: 800px;
 }
 .topSec{
-    margin-left: 65px;
+    margin-left: 50px;
     padding: 30px;
 }
 .big{
@@ -119,11 +119,11 @@ header a {
     font-size: 18px;
 }
 .img1{
-    position:absolute;
+    position:relative;
+    top:130px;
 }
 .img2{
     position: relative;
     bottom:50px;
-
 }
 
